@@ -3,6 +3,9 @@ using namespace std;
 
 int main() {
     int n, sum = 0;
+    aaaaa
+    aaa
+    aaaa
 
     cout << "Enter a positive integer: ";
     cin >> n;
